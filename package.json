@@ -1,6 +1,6 @@
 {
   "name": "node-sdl2-engine",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Bindings for SDL2 in Node - from https://github.com/zetsin/node-sdl2",
   "main": "index.js",
   "dependencies": {
